@@ -1,0 +1,9 @@
+/*fdjaslfjalja*/
+//sfajdfkaj
+#include <stdio.h>
+# include "hello"
+{
+int i;
+if ( i >= 0) i = i + 1;
+
+}
